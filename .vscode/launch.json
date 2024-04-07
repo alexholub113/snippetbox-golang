@@ -9,7 +9,7 @@
       "program": "${workspaceFolder}/cmd/web/",
       "cwd": "${workspaceFolder}",
       "env": {},
-      "args": []
+      "args": ["-addr", ":4000"]
     }
   ]
 }
